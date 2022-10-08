@@ -1,0 +1,46 @@
+---
+layout: news
+title: "Blog"
+desc: " Keep up to date with the leading information and technologies in the Ugandan oil industry.."
+---
+
+<main>
+
+  <section class="ms-0 ml-5">
+  <h1 class="text-center   exa pt-1 ">WHAT'S NEW IN OIL & GAS INDUSTRY</h1>
+  <p class=" h4 px-0 py-1 mx-0 fw-normal text-center opalgeo">
+    Keep up to date with the leading information and technologies in the Ugandan oil industry. 
+    <on class=""></on>
+  </p>
+  <div class="row mx-auto">
+    {% for post in site.posts limit:6%}
+    <div class="col-lg-4 my-3 ">
+      <div class="m-1 bg-light">
+        <div class="p-3 articleitem">
+          <article class="">
+            {% include patterns/cards/post.html data=post %}
+          </article>
+          
+        </div>
+  
+        
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+
+<!-----------------------------LOWER LIST----------------------------------------->
+<h1 class="text-left  ps-5 pt-5">Other Blogs</h1>
+<div class="row container ps-5 text-warning text-left py-5 ">
+  {% for posts in site.posts %}
+    <h3 class="allposts opalgeo h5 underline">
+     {% include patterns/cards/posts.html data=posts %}
+    </h3>
+   
+      
+    {% endfor %}
+ 
+</div>
+<!----------------------------------END LOWER LIST-------------------------------->
+</section>
+</main>
