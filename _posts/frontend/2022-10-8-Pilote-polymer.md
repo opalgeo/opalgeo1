@@ -30,6 +30,4 @@ Therefore, the Petroleum Authority of Uganda (PAU) must ensure that the national
 
 Lematia Cosmas
 
-Consultant, OPALGEO Solutions Ltd
-
-B.sc PGP, M.sc PG, M.sc PE
+MSc. Petroleum Geosciences
