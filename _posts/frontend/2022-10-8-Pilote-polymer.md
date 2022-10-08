@@ -4,8 +4,7 @@ title: >-
   Pilot polymer flooding method before full-scale application in the Albertine
   Graben, Uganda
 desc: >-
-  After a long period of waiting since the first oil discovery in 2006, Uganda
-  is now set to see its first oil in 2024. 
+  As of today, Uganda has an estimated 6.0 billion barrels (bbl) of oil equivalent in place, with about 1.4 bbl of these resources recoverable. This gives an average recovery factor (RF) of 23.3% of the oil in place which falls within the global average RF of 20 to 30% using the available technologies. 
 author: Lematia Cosmas
 written-on: 2022-October-8
 published: true
