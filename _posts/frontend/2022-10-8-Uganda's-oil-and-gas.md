@@ -2,8 +2,7 @@
 layout: blog-post
 title: Uganda's Oil and Gas a Catalist for  Green Economy
 desc: >-
-  After a long period of waiting since the first oil discovery in 2006, Uganda
-  is now set to see its first oil in 2024. 
+  After a long period of waiting since the first oil discovery in 2006, Uganda is now set to see its first oil in 2025.
 author: Lematia Cosmas
 written-on: 2022-October-8
 published: true
