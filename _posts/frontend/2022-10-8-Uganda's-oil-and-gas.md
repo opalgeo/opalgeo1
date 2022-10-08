@@ -27,6 +27,4 @@ As Uganda starts to produce its first oil (currently known as 6.5 billion barrel
 
 Lematia Cosmas
 
-Consultant, OPALGEO Solutions Ltd
-
-B.sc PGP, M.sc PG, M.sc PE
+MSc. Petroleum Geosciences
